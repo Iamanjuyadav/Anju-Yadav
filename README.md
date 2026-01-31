@@ -1,24 +1,24 @@
 # About Me
 
-## Hi , I'm Anju Yadav
+# Hi , I'm Anju Yadav
 
 👩‍💻 I’m currently working on  
 🌐 Web Development Projects (HTML, CSS, JavaScript, React)
 
-# 🤝 I’m looking to collaborate on  
-# 🚀 Frontend projects, portfolios, and open-source contributions
+ 🤝 I’m looking to collaborate on  
+🚀 Frontend projects, portfolios, and open-source contributions
 
-# 🆘 I’m looking for help with  
-# ⚙️ Advanced JavaScript, React optimization, and backend integration
+🆘 I’m looking for help with  
+⚙️ Advanced JavaScript, React optimization, and backend integration
 
-# 🌱 I’m currently learning  
-# 📚 MERN Stack, UI/UX best practices, and performance optimization
+🌱 I’m currently learning  
+📚 MERN Stack, UI/UX best practices, and performance optimization
 
-# 💬 Ask me about  
-# 💡 HTML5, CSS3, JavaScript, Responsive Design, Git & GitHub
+💬 Ask me about  
+💡 HTML5, CSS3, JavaScript, Responsive Design, Git & GitHub
 
-# ⚡ Fun fact  
-# ✨ I love turning ideas into clean, responsive websites!
+⚡ Fun fact  
+✨ I love turning ideas into clean, responsive websites!
 
 
 
