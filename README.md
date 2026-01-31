@@ -1,7 +1,6 @@
-# About Me
-
 # Hi , I'm Anju Yadav
 
+# About Me:- 
 👩‍💻 I’m currently working on  
 🌐 Web Development Projects (HTML, CSS, JavaScript, React)
 
