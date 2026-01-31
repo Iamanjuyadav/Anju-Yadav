@@ -2,8 +2,8 @@
 
 ## Hi , I'm Anju Yadav
 
-# 👩‍💻 I’m currently working on  
-# 🌐 Web Development Projects (HTML, CSS, JavaScript, React)
+👩‍💻 I’m currently working on  
+🌐 Web Development Projects (HTML, CSS, JavaScript, React)
 
 # 🤝 I’m looking to collaborate on  
 # 🚀 Frontend projects, portfolios, and open-source contributions
